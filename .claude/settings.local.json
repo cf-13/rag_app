@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(python3.13:*)",
+      "Bash(pyenv global:*)",
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)"
+    ],
+    "deny": []
+  }
+}
